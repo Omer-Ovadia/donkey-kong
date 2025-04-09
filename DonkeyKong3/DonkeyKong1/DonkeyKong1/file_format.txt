@@ -1,0 +1,10 @@
+Steps File Format:
+isColored: 1(for true), 0(for false)
+random seed
+number of iterations
+*all of the iterations* in the format: iteration key(a,w,s,d,x,p)
+
+Result File Format:
+number of iterations
+*all of the iterations* in the format: iteration state(0 for loss of life, 1 for winning the level)
+score of the current level
